@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Paraj Bhatt</h1>
 <h3 align="center">A passionate Sofware developer from India</h3>
 
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWkydGZiYXdvM3gwc2VzN3R0emJ6Z3prMm0yMmpodXoxZ2VuZ3k0eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MDJ9IbxxvDUQM/giphy.gif" align = "right"/>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reqzonee&label=Profile%20views&color=0e75b6&style=flat" alt="reqzonee" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=reqzonee" alt="reqzonee" /></a> </p>
