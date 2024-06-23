@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Paraj Bhatt</h1>
 <h3 align="center">A passionate Sofware developer from India</h3>
 
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWkydGZiYXdvM3gwc2VzN3R0emJ6Z3prMm0yMmpodXoxZ2VuZ3k0eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MDJ9IbxxvDUQM/giphy.gif" align = "right"/>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reqzonee&label=Profile%20views&color=0e75b6&style=flat" alt="reqzonee" /> </p>
 
@@ -16,7 +16,7 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1oGcJxJuOb8jbYt7OxVV3IfNCMR7aK4vx/view?usp=sharing](https://drive.google.com/file/d/1oGcJxJuOb8jbYt7OxVV3IfNCMR7aK4vx/view?usp=sharing)
 
 - ⚡ Fun fact **I love exploring new places and cultures through travel**
-
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWkydGZiYXdvM3gwc2VzN3R0emJ6Z3prMm0yMmpodXoxZ2VuZ3k0eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MDJ9IbxxvDUQM/giphy.gif" align = "right"/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/paraj-bhatt-891148229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paraj-bhatt-891148229" height="30" width="40" /></a>
